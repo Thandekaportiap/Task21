@@ -8,17 +8,28 @@ Start the MongoDB Shell
 ```
 Create a MongoDB database 
 ```bash
- use Database-Name
+ use <Database-Name>
+
 ```
 Create a collection
 ```bash
-db.createCollection("collection Name")
+db.createCollection("<Collection-Name>")
 ```
 Insert a document
 ```bash
-db.collection Name.insertOne({
-    field name: "value",
-     field name: " value",
-     field name: "value"
+db.<Collection-Name>.insertOne({
+  <Field-Name>: "<Value>",
+  <Field-Name>: "<Value>",
+  <Field-Name>: "<Value>"
 })
 ```
+Exit the MongoDB Shell
+```bash
+ Exit
+```
+To export the database
+```bash
+mongodump --db <Database-Name> --out /path/to/export/directory
+```
+
+
