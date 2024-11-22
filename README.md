@@ -6,9 +6,9 @@ Start the MongoDB Shell
 ```bash
  mongosh
 ```
-Create a MongoDB database called Codetribe
+Create a MongoDB database 
 ```bash
- use Codetribe
+ use Database-Name
 ```
 Create a collection
 ```bash
