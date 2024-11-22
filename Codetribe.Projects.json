@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "67405a1fb20b535f6e0d8196"
+  },
+  "Name": "MongoDB installation",
+  "Course": "BroCode",
+  "Lesson": "installing and understanding the basic for mongo db"
+},
+{
+  "_id": {
+    "$oid": "67405a94b20b535f6e0d8197"
+  },
+  "Name": "to-do list",
+  "Course": "react and sqlite",
+  "Lesson": "using react and sqlite to build app"
+}]

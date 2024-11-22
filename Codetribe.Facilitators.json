@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6740581db20b535f6e0d8190"
+  },
+  "Name": "Dlozi",
+  "Location": "PMB",
+  "Course": "React JS"
+},
+{
+  "_id": {
+    "$oid": "67405850b20b535f6e0d8191"
+  },
+  "Name": "Kabelo",
+  "Location": "Galeshiwe",
+  "Course": "Redux"
+},
+{
+  "_id": {
+    "$oid": "6740587db20b535f6e0d8192"
+  },
+  "Name": "Fifi",
+  "Location": "Limpopo",
+  "Course": "Node JS"
+}]

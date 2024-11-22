@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "674058feb20b535f6e0d8193"
+  },
+  "Name": "Luyanda Shamase",
+  "Location": "PMB",
+  "Facilitator": "Dlozi"
+},
+{
+  "_id": {
+    "$oid": "67405934b20b535f6e0d8194"
+  },
+  "Name": "Reabetswe",
+  "Location": "Galeshiwe",
+  "Facilitator": "Kabelo"
+},
+{
+  "_id": {
+    "$oid": "6740597db20b535f6e0d8195"
+  },
+  "Name": "Siphelele Zulu",
+  "Location": "Soweto",
+  "Facilitator": "Zack"
+}]
